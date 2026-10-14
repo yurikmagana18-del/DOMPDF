@@ -1,0 +1,9 @@
+{
+    "name": "student-group/dompdf-starter",
+    "description": "Starter project for generating PDFs in PHP with DOMPDF",
+    "type": "project",
+    "require": {
+        "php": ">=7.1",
+        "dompdf/dompdf": "^3.0"
+    }
+}
