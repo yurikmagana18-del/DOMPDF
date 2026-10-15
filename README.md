@@ -5,12 +5,12 @@
 
 ## Setup
 1. Copy this folder into your web root. 
-1. Copy address from the file explorer
-1. Use the address as such address = where the dompdf folder is
-Open the terminal and type: cd address
-2. run `composer install`. Right after
-3. Enable PHP extensions `mbstring`, `dom`, `gd`.
-4. Open in your browser:
+2. Copy address from the file explorer
+3. Use the address as such address = where the dompdf folder is.
+4. Open the terminal and type: cd address
+5. run `composer install`. Right after
+6. Enable PHP extensions `mbstring`, `dom`, `gd`.
+7. Open in your browser:
    - `hello.php` - minimal example
    - `starter.php` - full commented example
    - `starter.php?mode=download` - force download
