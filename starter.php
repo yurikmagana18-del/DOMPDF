@@ -92,3 +92,4 @@ switch ($mode) {
         $dompdf->stream('student-report.pdf', ['Attachment' => false]);
         break;
 }
+?>
