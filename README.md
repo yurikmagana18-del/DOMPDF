@@ -1,7 +1,7 @@
 # DOMPDF Starter
 
 ## Setup
-1. Copy this folder into your web root (Laragon: `C:\laragon\www\dompdf-starter`).
+1. Copy this folder into your web root.
 2. Open a terminal in the folder and run `composer install`.
 3. Enable PHP extensions `mbstring`, `dom`, `gd`.
 4. Open in your browser:
