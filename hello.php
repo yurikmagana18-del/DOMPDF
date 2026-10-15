@@ -13,4 +13,3 @@ $dompdf->render();
  
 $dompdf->stream('hello.pdf', ['Attachment' => false]);
  
-Claude finished the response
